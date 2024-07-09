@@ -1,0 +1,21 @@
+.home {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .home img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .home h1 {
+    font-size: 2.5rem;
+    margin: 1rem 0;
+  }
+  
+  .home p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
