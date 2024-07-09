@@ -1,25 +1,28 @@
 .projects {
-    padding: 2rem;
-    text-align: center;
-  }
-  
-  .project-list {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .project-item {
-    background-color: #f4f4f4;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 1rem;
-    margin: 1rem 0;
-    width: 80%;
-    text-align: left;
-  }
-  
-  .project-item h2 {
-    margin-top: 0;
-  }
+  height: calc(100vh - 4rem); /* Ajustez pour utiliser la hauteur disponible */
+  overflow-y: auto; /* Permet le défilement vertical */
+  padding: 2rem;
+  text-align: center;
+}
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.project-item {
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem 0;
+  width: 80%; /* Ajustez la largeur selon vos besoins */
+  text-align: left;
+}
+
+.project-item h2 {
+  margin-top: 0;
+}
+
   
