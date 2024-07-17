@@ -54,7 +54,7 @@ const Contact = () => {
     <div className="contact">
       <h1>Contactez-nous</h1>
       {submitted ? (
-        <p>Merci pour votre message. Nous vous répondrons bientôt.</p>
+        <p className="success-message">Merci pour votre message. Nous vous répondrons bientôt.</p>
       ) : (
         <form onSubmit={handleSubmit}>
           <div className="form-group">
@@ -89,7 +89,7 @@ const Contact = () => {
             ></textarea>
             {errors.message && <p className="error">{errors.message}</p>}
           </div>
-          <button type="submit">Envoyer</button>
+          <button type="submit" className="submit-button">Envoyer</button>
         </form>
       )}
     </div>
@@ -97,3 +97,4 @@ const Contact = () => {
 };
 
 export default Contact;
+

@@ -73,7 +73,7 @@ const AddTestimonials = () => {
             ></textarea>
             {errors.message && <p className="error">{errors.message}</p>}
           </div>
-          <button type="submit">Envoyer</button>
+          <button type="submit" className="submit-button">Envoyer</button>
         </form>
       )}
     </div>
@@ -81,4 +81,5 @@ const AddTestimonials = () => {
 };
 
 export default AddTestimonials;
+
 

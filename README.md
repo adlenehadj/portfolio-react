@@ -10,11 +10,11 @@ Bienvenue dans mon portfolio ! Ce projet est une application web développée en
 - **Témoignages** : Les visiteurs peuvent consulter les témoignages laissés par d'autres utilisateurs et ajouter leurs propres témoignages.
 
 ## Technologies Utilisées
-
 - **Frontend** : React, CSS
-- **Backend** :  (pas applicable)
-- **Base de Données** :  (pas applicable)
+- **Backend** : (pas applicable)
+- **Base de Données** : (pas applicable)
 - **Autres** : [Autres technologies ou outils utilisés]
+
 
 ## Installation et Exécution
 
@@ -31,9 +31,10 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Auteur
-
 - **Nom** : [Adlene Hadj Naceur]
 - **Email** : [adlenehadj2002@gmail.com]
-- **LinkedIn** : [(https://www.linkedin.com/in/adlene-hadj-naceur-a51573318/)]
-- **GitHub** : https://github.com/adlenehadj
+- **LinkedIn** : [https://www.linkedin.com/in/adlene-hadj-naceur-a51573318/]
+- **GitHub** : [https://github.com/adlenehadj]
+
 Merci d'avoir visité mon portfolio !
+
